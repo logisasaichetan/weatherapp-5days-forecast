@@ -1,0 +1,53 @@
+.container {
+  max-width: max-content;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.search {
+  margin-top: 2rem;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  border: solid;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: solid #007bff;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.weather {
+  margin-top: 1rem;
+  font-size: 1rem;
+  border: 2px solid black;
+  border-radius: 1.5rem;
+}
+
+.forecast {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+.card {
+  border: 2px solid black;
+  margin: 5px;
+  border-radius: 1.5rem;
+}
+.fixed-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  z-index: 999;
+}
