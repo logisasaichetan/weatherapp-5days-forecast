@@ -31,17 +31,24 @@ button {
 
 .forecast {
   display: flex;
-
   flex-wrap: wrap;
-  margin-bottom: 100px;
+  margin: 1rem;
 }
-.card {
+.card{
   border: 2px solid black;
   margin: 5px;
   border-radius: 1.5rem;
 }
+.graph {
+  border: 2px solid black;
+  margin: 5px;
+  border-radius: 1.5rem;
+
+
+}
+
 .fixed-footer {
-  position: fixed;
+  position: sticky;
   bottom: 0;
   left: 0;
   width: 100%;
