@@ -33,11 +33,13 @@ button {
   display: flex;
   flex-wrap: wrap;
   margin: 1rem;
+  justify-content: center;
 }
 .card{
   border: 2px solid black;
   margin: 5px;
   border-radius: 1.5rem;
+  width: 150px;
 }
 .graph {
   border: 2px solid black;
@@ -51,7 +53,8 @@ button {
   position: sticky;
   bottom: 0;
   left: 0;
-  width: 100%;
+  right: 0;
+   width: 100%; 
   background-color: black;
   color: white;
   padding: 10px;
