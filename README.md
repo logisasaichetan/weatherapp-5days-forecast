@@ -1,1 +1,2 @@
 # majorproject
+![weatherappoutput](./weatheroutput.jpg)
