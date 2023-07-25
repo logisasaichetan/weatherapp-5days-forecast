@@ -1,8 +1,10 @@
 # majorproject
 live preview: https://logisasaichetan.github.io/majorproject/
+```
 weather app build using
-1html
-2css
-3javascript
-4chart js
+1.html
+2.css
+3.javascript
+4.chart js
+```
 ![weatherappoutput](./weatheroutput.jpg)
