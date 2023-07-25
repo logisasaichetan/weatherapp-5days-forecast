@@ -1,6 +1,5 @@
 # majorproject
-live preview: 
-```https://logisasaichetan.github.io/majorproject/```
+```live preview: https://logisasaichetan.github.io/majorproject/```
 
 weather app build using:
 1.html
