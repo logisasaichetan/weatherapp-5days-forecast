@@ -1,5 +1,5 @@
 # majorproject
-live preview: https://logisasaichetan.github.io/majorproject/
+live preview: https://logisasaichetan.github.io/weatherapp-5days-forecast/
 
 weather app build using:
 1. html
